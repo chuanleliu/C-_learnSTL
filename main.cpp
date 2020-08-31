@@ -101,7 +101,7 @@ void test() {
 		cout <<" a < b";
 	}
 }
-int main() {
+int main111() {
 	test();
 	return 0;
 }
